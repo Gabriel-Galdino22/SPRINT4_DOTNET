@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DlGdYS5lT6U+IYVKsXDufhjnvFTDmJckKBTJ2ERdNGk=",
+  "Source": "ArgosNetAPI",
+  "BasePath": "_content/ArgosNetAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

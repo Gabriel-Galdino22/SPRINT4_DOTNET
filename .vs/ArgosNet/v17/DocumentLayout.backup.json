@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ArgosNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A411F8-9D0D-4910-A13F-8777F0F699AE}|ArgosNetAPI\\ArgosNetAPI.csproj|d:\\argosnet\\argosnetapi\\ml\\productrecommendationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A411F8-9D0D-4910-A13F-8777F0F699AE}|ArgosNetAPI\\ArgosNetAPI.csproj|solutionrelative:argosnetapi\\ml\\productrecommendationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A411F8-9D0D-4910-A13F-8777F0F699AE}|ArgosNetAPI\\ArgosNetAPI.csproj|d:\\argosnet\\argosnetapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A411F8-9D0D-4910-A13F-8777F0F699AE}|ArgosNetAPI\\ArgosNetAPI.csproj|solutionrelative:argosnetapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A411F8-9D0D-4910-A13F-8777F0F699AE}|ArgosNetAPI\\ArgosNetAPI.csproj|d:\\argosnet\\argosnetapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C6A411F8-9D0D-4910-A13F-8777F0F699AE}|ArgosNetAPI\\ArgosNetAPI.csproj|solutionrelative:argosnetapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A411F8-9D0D-4910-A13F-8777F0F699AE}|ArgosNetAPI\\ArgosNetAPI.csproj|d:\\argosnet\\argosnetapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A411F8-9D0D-4910-A13F-8777F0F699AE}|ArgosNetAPI\\ArgosNetAPI.csproj|solutionrelative:argosnetapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A411F8-9D0D-4910-A13F-8777F0F699AE}|ArgosNetAPI\\ArgosNetAPI.csproj|d:\\argosnet\\argosnetapi\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A411F8-9D0D-4910-A13F-8777F0F699AE}|ArgosNetAPI\\ArgosNetAPI.csproj|solutionrelative:argosnetapi\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A411F8-9D0D-4910-A13F-8777F0F699AE}|ArgosNetAPI\\ArgosNetAPI.csproj|d:\\argosnet\\argosnetapi\\ml\\productdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A411F8-9D0D-4910-A13F-8777F0F699AE}|ArgosNetAPI\\ArgosNetAPI.csproj|solutionrelative:argosnetapi\\ml\\productdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A411F8-9D0D-4910-A13F-8777F0F699AE}|ArgosNetAPI\\ArgosNetAPI.csproj|d:\\argosnet\\argosnetapi\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A411F8-9D0D-4910-A13F-8777F0F699AE}|ArgosNetAPI\\ArgosNetAPI.csproj|solutionrelative:argosnetapi\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A411F8-9D0D-4910-A13F-8777F0F699AE}|ArgosNetAPI\\ArgosNetAPI.csproj|d:\\argosnet\\argosnetapi\\services\\iprodutoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A411F8-9D0D-4910-A13F-8777F0F699AE}|ArgosNetAPI\\ArgosNetAPI.csproj|solutionrelative:argosnetapi\\services\\iprodutoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A411F8-9D0D-4910-A13F-8777F0F699AE}|ArgosNetAPI\\ArgosNetAPI.csproj|d:\\argosnet\\argosnetapi\\repositories\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A411F8-9D0D-4910-A13F-8777F0F699AE}|ArgosNetAPI\\ArgosNetAPI.csproj|solutionrelative:argosnetapi\\repositories\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A411F8-9D0D-4910-A13F-8777F0F699AE}|ArgosNetAPI\\ArgosNetAPI.csproj|d:\\argosnet\\argosnetapi\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A411F8-9D0D-4910-A13F-8777F0F699AE}|ArgosNetAPI\\ArgosNetAPI.csproj|solutionrelative:argosnetapi\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A411F8-9D0D-4910-A13F-8777F0F699AE}|ArgosNetAPI\\ArgosNetAPI.csproj|d:\\argosnet\\argosnetapi\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A411F8-9D0D-4910-A13F-8777F0F699AE}|ArgosNetAPI\\ArgosNetAPI.csproj|solutionrelative:argosnetapi\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A411F8-9D0D-4910-A13F-8777F0F699AE}|ArgosNetAPI\\ArgosNetAPI.csproj|d:\\argosnet\\argosnetapi\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A411F8-9D0D-4910-A13F-8777F0F699AE}|ArgosNetAPI\\ArgosNetAPI.csproj|solutionrelative:argosnetapi\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A411F8-9D0D-4910-A13F-8777F0F699AE}|ArgosNetAPI\\ArgosNetAPI.csproj|d:\\argosnet\\argosnetapi\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A411F8-9D0D-4910-A13F-8777F0F699AE}|ArgosNetAPI\\ArgosNetAPI.csproj|solutionrelative:argosnetapi\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F23BE75-F903-4A03-8E7E-9B89D85DDD4A}|ArgosNetAPI.Tests\\ArgosNetAPI.Tests.csproj|d:\\argosnet\\argosnetapi.tests\\produtoscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F23BE75-F903-4A03-8E7E-9B89D85DDD4A}|ArgosNetAPI.Tests\\ArgosNetAPI.Tests.csproj|solutionrelative:argosnetapi.tests\\produtoscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F23BE75-F903-4A03-8E7E-9B89D85DDD4A}|ArgosNetAPI.Tests\\ArgosNetAPI.Tests.csproj|d:\\argosnet\\argosnetapi.tests\\testdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F23BE75-F903-4A03-8E7E-9B89D85DDD4A}|ArgosNetAPI.Tests\\ArgosNetAPI.Tests.csproj|solutionrelative:argosnetapi.tests\\testdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F23BE75-F903-4A03-8E7E-9B89D85DDD4A}|ArgosNetAPI.Tests\\ArgosNetAPI.Tests.csproj|d:\\argosnet\\argosnetapi.tests\\argosnetapi.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6F23BE75-F903-4A03-8E7E-9B89D85DDD4A}|ArgosNetAPI.Tests\\ArgosNetAPI.Tests.csproj|solutionrelative:argosnetapi.tests\\argosnetapi.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F23BE75-F903-4A03-8E7E-9B89D85DDD4A}|ArgosNetAPI.Tests\\ArgosNetAPI.Tests.csproj|d:\\argosnet\\argosnetapi.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F23BE75-F903-4A03-8E7E-9B89D85DDD4A}|ArgosNetAPI.Tests\\ArgosNetAPI.Tests.csproj|solutionrelative:argosnetapi.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A411F8-9D0D-4910-A13F-8777F0F699AE}|ArgosNetAPI\\ArgosNetAPI.csproj|d:\\argosnet\\argosnetapi\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A411F8-9D0D-4910-A13F-8777F0F699AE}|ArgosNetAPI\\ArgosNetAPI.csproj|solutionrelative:argosnetapi\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A411F8-9D0D-4910-A13F-8777F0F699AE}|ArgosNetAPI\\ArgosNetAPI.csproj|d:\\argosnet\\argosnetapi\\argosnetapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C6A411F8-9D0D-4910-A13F-8777F0F699AE}|ArgosNetAPI\\ArgosNetAPI.csproj|solutionrelative:argosnetapi\\argosnetapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRecommendationModel.cs",
+              "DocumentMoniker": "D:\\ArgosNet\\ArgosNetAPI\\ML\\ProductRecommendationModel.cs",
+              "RelativeDocumentMoniker": "ArgosNetAPI\\ML\\ProductRecommendationModel.cs",
+              "ToolTip": "D:\\ArgosNet\\ArgosNetAPI\\ML\\ProductRecommendationModel.cs",
+              "RelativeToolTip": "ArgosNetAPI\\ML\\ProductRecommendationModel.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T17:40:19.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\ArgosNet\\ArgosNetAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ArgosNetAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\ArgosNet\\ArgosNetAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ArgosNetAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T16:59:04.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "D:\\ArgosNet\\ArgosNetAPI\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "ArgosNetAPI\\Controllers\\ClientesController.cs",
+              "ToolTip": "D:\\ArgosNet\\ArgosNetAPI\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "ArgosNetAPI\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAqwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T16:12:22.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProdutoRepository.cs",
+              "DocumentMoniker": "D:\\ArgosNet\\ArgosNetAPI\\Repositories\\ProdutoRepository.cs",
+              "RelativeDocumentMoniker": "ArgosNetAPI\\Repositories\\ProdutoRepository.cs",
+              "ToolTip": "D:\\ArgosNet\\ArgosNetAPI\\Repositories\\ProdutoRepository.cs",
+              "RelativeToolTip": "ArgosNetAPI\\Repositories\\ProdutoRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T17:18:13.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductData.cs",
+              "DocumentMoniker": "D:\\ArgosNet\\ArgosNetAPI\\ML\\ProductData.cs",
+              "RelativeDocumentMoniker": "ArgosNetAPI\\ML\\ProductData.cs",
+              "ToolTip": "D:\\ArgosNet\\ArgosNetAPI\\ML\\ProductData.cs",
+              "RelativeToolTip": "ArgosNetAPI\\ML\\ProductData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T17:39:51.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "D:\\ArgosNet\\ArgosNetAPI\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "ArgosNetAPI\\Models\\Produto.cs",
+              "ToolTip": "D:\\ArgosNet\\ArgosNetAPI\\Models\\Produto.cs",
+              "RelativeToolTip": "ArgosNetAPI\\Models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T15:48:49.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProdutosControllerTests.cs",
+              "DocumentMoniker": "D:\\ArgosNet\\ArgosNetAPI.Tests\\ProdutosControllerTests.cs",
+              "RelativeDocumentMoniker": "ArgosNetAPI.Tests\\ProdutosControllerTests.cs",
+              "ToolTip": "D:\\ArgosNet\\ArgosNetAPI.Tests\\ProdutosControllerTests.cs",
+              "RelativeToolTip": "ArgosNetAPI.Tests\\ProdutosControllerTests.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T17:09:08.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ArgosNet\\ArgosNetAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ArgosNetAPI\\appsettings.json",
+              "ToolTip": "D:\\ArgosNet\\ArgosNetAPI\\appsettings.json",
+              "RelativeToolTip": "ArgosNetAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-05T15:47:02.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProdutoService.cs",
+              "DocumentMoniker": "D:\\ArgosNet\\ArgosNetAPI\\Services\\ProdutoService.cs",
+              "RelativeDocumentMoniker": "ArgosNetAPI\\Services\\ProdutoService.cs",
+              "ToolTip": "D:\\ArgosNet\\ArgosNetAPI\\Services\\ProdutoService.cs",
+              "RelativeToolTip": "ArgosNetAPI\\Services\\ProdutoService.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAIwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T17:22:31.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ArgosNet\\ArgosNetAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ArgosNetAPI\\Program.cs",
+              "ToolTip": "D:\\ArgosNet\\ArgosNetAPI\\Program.cs",
+              "RelativeToolTip": "ArgosNetAPI\\Program.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAwHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T15:47:01.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "D:\\ArgosNet\\ArgosNetAPI\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "ArgosNetAPI\\Models\\Cliente.cs",
+              "ToolTip": "D:\\ArgosNet\\ArgosNetAPI\\Models\\Cliente.cs",
+              "RelativeToolTip": "ArgosNetAPI\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T16:11:25.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "D:\\ArgosNet\\ArgosNetAPI\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "ArgosNetAPI\\Controllers\\ProdutosController.cs",
+              "ToolTip": "D:\\ArgosNet\\ArgosNetAPI\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "ArgosNetAPI\\Controllers\\ProdutosController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAqwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T15:50:55.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProdutoRepository.cs",
+              "DocumentMoniker": "D:\\ArgosNet\\ArgosNetAPI\\Repositories\\IProdutoRepository.cs",
+              "RelativeDocumentMoniker": "ArgosNetAPI\\Repositories\\IProdutoRepository.cs",
+              "ToolTip": "D:\\ArgosNet\\ArgosNetAPI\\Repositories\\IProdutoRepository.cs",
+              "RelativeToolTip": "ArgosNetAPI\\Repositories\\IProdutoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T17:17:33.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProdutoService.cs",
+              "DocumentMoniker": "D:\\ArgosNet\\ArgosNetAPI\\Services\\IProdutoService.cs",
+              "RelativeDocumentMoniker": "ArgosNetAPI\\Services\\IProdutoService.cs",
+              "ToolTip": "D:\\ArgosNet\\ArgosNetAPI\\Services\\IProdutoService.cs",
+              "RelativeToolTip": "ArgosNetAPI\\Services\\IProdutoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T17:21:24.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ArgosNetAPI.Tests",
+              "DocumentMoniker": "D:\\ArgosNet\\ArgosNetAPI.Tests\\ArgosNetAPI.Tests.csproj",
+              "RelativeDocumentMoniker": "ArgosNetAPI.Tests\\ArgosNetAPI.Tests.csproj",
+              "ToolTip": "D:\\ArgosNet\\ArgosNetAPI.Tests\\ArgosNetAPI.Tests.csproj",
+              "RelativeToolTip": "ArgosNetAPI.Tests\\ArgosNetAPI.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-05T17:06:30.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TestDbContextFactory.cs",
+              "DocumentMoniker": "D:\\ArgosNet\\ArgosNetAPI.Tests\\TestDbContextFactory.cs",
+              "RelativeDocumentMoniker": "ArgosNetAPI.Tests\\TestDbContextFactory.cs",
+              "ToolTip": "D:\\ArgosNet\\ArgosNetAPI.Tests\\TestDbContextFactory.cs",
+              "RelativeToolTip": "ArgosNetAPI.Tests\\TestDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T17:06:49.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\ArgosNet\\ArgosNetAPI.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "ArgosNetAPI.Tests\\UnitTest1.cs",
+              "ToolTip": "D:\\ArgosNet\\ArgosNetAPI.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "ArgosNetAPI.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T17:05:34.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\ArgosNet\\ArgosNetAPI\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ArgosNetAPI\\AppDbContext.cs",
+              "ToolTip": "D:\\ArgosNet\\ArgosNetAPI\\AppDbContext.cs",
+              "RelativeToolTip": "ArgosNetAPI\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T15:49:20.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ArgosNetAPI",
+              "DocumentMoniker": "D:\\ArgosNet\\ArgosNetAPI\\ArgosNetAPI.csproj",
+              "RelativeDocumentMoniker": "ArgosNetAPI\\ArgosNetAPI.csproj",
+              "ToolTip": "D:\\ArgosNet\\ArgosNetAPI\\ArgosNetAPI.csproj",
+              "RelativeToolTip": "ArgosNetAPI\\ArgosNetAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-05T15:52:45.759Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
